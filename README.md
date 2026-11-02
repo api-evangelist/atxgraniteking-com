@@ -1,4 +1,4 @@
-# atxgraniteking-com
+# ATX Granite King
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-atxgraniteking-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://atxgraniteking.com/
+ATX Granite King provides granite, quartz, and quartzite countertop services in Austin and Central Texas. Customers select from a live inventory of 299 slabs, which are templated, fabricated, and installed by the crew, with sink installation included. The company emphasizes flat, honest pricing per square foot and offers both standard and large‑scale projects.
+
+**Areas:** Granite · Quartz · Countertops · Austin · HomeImprovement
+
+## ATX Granite King on APIs.io
+
+Everything profiled for ATX Granite King is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/atxgraniteking-com/](https://apis.io/providers/atxgraniteking-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ATX Granite King API](https://apis.io/apis/atxgraniteking-com/atx-granite-king-api/) — Public pricing and countertop information API via MCP tools endpoint.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Atxgraniteking Com Authentication](https://apis.io/security/atxgraniteking-com/atxgraniteking-com-authentication/)
+- [Atxgraniteking Com Domain Security](https://apis.io/security/atxgraniteking-com/atxgraniteking-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Atxgraniteking Com Scopes](https://apis.io/scopes/atxgraniteking-com/atxgraniteking-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Atxgraniteking Com Plans Pricing](https://apis.io/plans/atxgraniteking-com/atxgraniteking-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Atxgraniteking Com Rate Limits](https://apis.io/rate-limits/atxgraniteking-com/atxgraniteking-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://atxgraniteking.com/)
+- [Documentation](https://atxgraniteking.com/guides/)
+- [Pricing](https://atxgraniteking.com/ar/pricing/)
+
+## API Evangelist rating
+
+**Kin Score 13.6** — emerging · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 29.5 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/atxgraniteking-com/](https://apis.io/providers/atxgraniteking-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ATX Granite King: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/atxgraniteking-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
